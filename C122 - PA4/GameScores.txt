@@ -1,0 +1,9 @@
+John has earned 70 points and has retrieved to get the Treasure!
+John has earned 0 points and has failed to get the Treasure!
+John has earned 85 points and has retrieved to get the Treasure!
+John has earned 125 points and has retrieved to get the Treasure!
+John has earned -10 points and has failed to get the Treasure!
+John has earned -5 points and has failed to get the Treasure!
+John has earned 43 points and has retrieved to get the Treasure!
+Jesus has earned 8 points and has retrieved the Treasure!
+Jesus has earned 16 points and has retrieved the Treasure!
